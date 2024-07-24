@@ -24,13 +24,13 @@ export const headerVales = [
         pathName: "#ContactSection"
     },
 
-    {
-        name:"log in",
-        pathName: "#Loginpage"
-    },
+    // {
+    //     name:"log in",
+    //     pathName: "/login"
+    // },
 
-    {
-        name:" Sign up",
-        pathName: "#Sign up"
-    },
+    // {
+    //     name:" Sign up",
+    //     pathName: "/Signup"
+    // },
 ]
