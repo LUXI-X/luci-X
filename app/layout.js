@@ -17,10 +17,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={`${popins.className} bg-primary`}>
-        <GoogleOAuthProvider clientId="466584842768-mt9murppikq6an70siqrjdh9vlojptea.apps.googleusercontent.com"  >
 
         {children}
-        </GoogleOAuthProvider>
         
         </body>
     </html>
