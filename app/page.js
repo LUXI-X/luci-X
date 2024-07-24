@@ -13,7 +13,7 @@ import ServiceSection from "@/components/ServiceSection";
 export default function Home() { 
   
   return (
-   <main className="">
+   <main id="t1" className="">
    <Header />
    <HomeSection id="HomeSection" />
    <ServiceSection id="ServiceSection"  />
